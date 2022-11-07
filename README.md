@@ -11,7 +11,7 @@ ng g c pages/clients/clients-list
 ``
 ### Generate Component
 ``
-ng g c pages/clients/clients-edit
+ng g c pages/clients/client-edit
 ``
 ### Generate Interface
 ``
