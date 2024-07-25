@@ -3,13 +3,13 @@
 
 ### Generate Module
 ``
-ng g m pages/clients --routing
+npm run ng g m pages/clients --routing
 ``
 ### Generate Component
 ``
-ng g c pages/clients/clients-list
+npm run ng g c pages/clients/clients-list
 ``
 ### Generate Interface
 ``
-ng g i api/models/client-get-by-id-vm
+npm run ng g i api/models/client-get-by-id-vm
 ``
